@@ -34,4 +34,4 @@ echo Extplorer::widget();
 
 ## License
 
-**yii2-extplorer** is released under the BSD 3-Clause License. See the bundled `LICENSE.md` for details.
+**yii2-extplorer** is released under the GPL v3 License. See the bundled `LICENSE.md` for details.
