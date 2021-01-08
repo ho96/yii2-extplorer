@@ -4,7 +4,7 @@
     "keywords": ["extplorer", "file manager"],
     "homepage": "https://github.com/ho96/yii2-extplorer",
     "type": "yii2-extension",
-    "license": "BSD 3-Clause",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "Marc Oliveras Galvez",
