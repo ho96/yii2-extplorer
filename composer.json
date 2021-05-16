@@ -1,0 +1,24 @@
+{
+    "name": "ho96/yii2-extplorer",
+    "description": "Extension that is a wrapper of the Extplorer.",
+    "keywords": ["extplorer", "file manager"],
+    "homepage": "https://github.com/ho96/yii2-extplorer",
+    "type": "yii2-extension",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Marc Oliveras",
+            "email": "admin@oligalma.com",
+            "homepage": "http://www.oligalma.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+		"yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ho96\\extplorer\\": ""
+        }
+    }
+}
